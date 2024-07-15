@@ -1,0 +1,26 @@
+/* src/pages/Home.css */
+.home {
+  padding-top: 1rem; /* Adjust based on the height of your navbar */
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* To make the text readable over the background */
+}
+
+.hero-title {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.description {
+  padding: 2rem;
+  background-color: #fff;
+  text-align: center;
+}
